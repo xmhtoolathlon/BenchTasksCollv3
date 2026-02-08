@@ -1,0 +1,1 @@
+Randomization assignment data
