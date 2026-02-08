@@ -1,0 +1,1 @@
+Raw efficacy measurement data
