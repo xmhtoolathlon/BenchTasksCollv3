@@ -1,0 +1,2 @@
+You can find the requirements for each files/folders in this example trial.
+For `trial_config.json`, it must have a non empty "required_protocols" field and a non empty "required_assessments" with "final_report" in it.
